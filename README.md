@@ -6,8 +6,8 @@
 
 I build practical tools for finding edge, managing risk, and turning repeated trading/research work into reliable systems.
 
+[![GitHub](https://img.shields.io/badge/GitHub-CptRedd-181717?style=for-the-badge&logo=github)](https://github.com/CptRedd)
 [![Portfolio](https://img.shields.io/badge/Portfolio-patricksebastine.github.io-0A66C2?style=for-the-badge)](https://patricksebastine.github.io/)
-[![GitHub](https://img.shields.io/badge/GitHub-PatrickSebastine-181717?style=for-the-badge&logo=github)](https://github.com/PatrickSebastine)
 [![X](https://img.shields.io/badge/X-@iamreddsebasti-000000?style=for-the-badge&logo=x)](https://x.com/iamreddsebasti)
 
 </div>
